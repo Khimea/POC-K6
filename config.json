@@ -1,23 +1,23 @@
 {
     "urls": {
         "03": {
-            "url": "http://soatest.trp.com.ar/proxy/N4BQuoter/GetContainerList",
+            "url": "https://url.com",
             "method": "GET"
         },  
         "05": {
-            "url": "http://soatest.trp.com.ar/proxy/N4BQuoter/GetImportDeliveryOrderContainerList",
+            "url": "https://url.com",
             "method": "PUT"
         },
         "07": {
-            "url": "http://soatest.trp.com.ar/proxy/N4BQuoter/CreateQuoteContainer",
+            "url": "https://url.com",
             "method": "POST"
         },
         "19": {
-            "url": "http://soatest.trp.com.ar/proxy/N4BQuoter/Rest/DeleteDraft?draftNbr=",
+            "url": "https://url.com",
             "method": "DELETE"
         },
         "api05": {
-            "url": "https://cotizadortst.trp.com.ar/cotizador/crm/ConsultaLibreDeuda/",
+            "url": "https://url.com",
             "method": "POST"
         }
     },
